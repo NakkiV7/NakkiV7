@@ -31,6 +31,3 @@ I'm always up for collaborating on interesting projects, meeting ambitious build
 
 [LinkedIn](https://www.linkedin.com/in/nakshatr-velagapudi/)
 
----
-
-*Build stuff. Break stuff. Learn stuff. Repeat.*
